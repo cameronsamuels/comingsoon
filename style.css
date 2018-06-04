@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: #f0591a;
+  color: #fff;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 20vmin;
+  text-align: center;
+}
+body:before {
+  content: "Coming Soon!";
+}
