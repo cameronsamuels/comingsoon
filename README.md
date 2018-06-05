@@ -1,5 +1,12 @@
-[**CSS "Coming Soon" landing page**](https://git.io/vh8we)
+[**Customizeable CSS placeholder landing page**](https://git.io/vh4CR)
+<br>A customizeable placeholder page designed using CSS
 
-A "Coming Soon" landing page designed using CSS.
-<br>A custom background color can be chosen by placing the hex color in the url (`/comingsoon#555555`).
-<br>Feel free to use this webpage for any of your products that are "coming soon".
+### Purpose
+Use this webpage to show your customers that your website is
+"Coming Soon!", "Under Construction", or in any other status.
+
+### Customization
+**Placeholder Text** can be chosen by `/?Text`
+<br>**Page Color** can be chosen by `/#555555` or `/#555`
+<br>Both can be chosen by `/#555555?Text`
+<br>Example: <https://cameronsamuels.com/placeholder/#555?Under%20Construction>
