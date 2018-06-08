@@ -1,4 +1,4 @@
-[**Customizeable CSS placeholder landing page**](https://git.io/vh4CR)
+[**Customizeable CSS placeholder landing page**](https://git.io/vhgE3)
 <br>A customizeable placeholder page designed using CSS
 
 ### Purpose
