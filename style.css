@@ -1,6 +1,7 @@
 :root {
-  --background: #2196F3;
   --text: "Placeholder Page";
+  --background: #2196F3;
+  --font: white;
 }
 
 body {
@@ -16,7 +17,7 @@ body {
   height: 100vh;
   margin: 0;
   background: var(--background);
-  color: #fff;
+  color: var(--font);
   font-family: helvetica, arial, sans-serif;
   font-size: 16vmin;
   text-align: center;
