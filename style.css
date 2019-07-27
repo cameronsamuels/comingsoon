@@ -32,7 +32,7 @@ a {
   top: 15px;
   right: 0;
   left: 0;
-  width: 230px;
+  max-width: 290px;
   height: calc(5vmin + 12px);
   margin: 0 auto;
   color: inherit;
